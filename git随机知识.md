@@ -1,4 +1,6 @@
 
+## 基础操作
+
 **本地初始化**
 bash
 
@@ -29,6 +31,8 @@ git commit -m "Initial commit"
 
 
 
+## 分支管理
+
 分支，主分支关系
 
 **命令使用：
@@ -49,6 +53,8 @@ git checkout [名字]————切换分支
 - Feature分支现在指向新的C3'
 
 
+
+## 远程同步
 
 **git fetch 和 git pull区别
 
